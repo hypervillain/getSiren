@@ -5,9 +5,16 @@
 
 this is a simple module we use at [Whire](http:whire.me "Check it out!").
 
-It allows your users to fill their company information by entering their [Siren number](https://avis-situation-sirene.insee.fr/jsp/presentation.jsp)!
+It enables you to get company information by providing their [Siren number](https://avis-situation-sirene.insee.fr/jsp/presentation.jsp)!
 
-If data is found, just set each relevant input accordingly.
+There are several use cases where this module would be of great use:
+
+* form pre-filling on your website
+* company profile enrichment on any analytics tools
+* segmentation of your existing database (by size, NAF, state code...)
+* ...
+
+If data is found, just set your inputs accordingly.
 
 ## So, what do you get?
 
