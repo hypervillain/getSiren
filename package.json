@@ -1,0 +1,31 @@
+{
+  "name": "getsirenfromfrenchcompany",
+  "version": "0.1.0",
+  "description": "A simple package to build a company account using its registration number",
+  "author": "Hugo Villain <hugo@whire.me>",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/THook/getSiren"
+  },
+  "keywords": [
+    "registration",
+    "company",
+    "automation",
+    "emploi",
+    "employment",
+    "whire"
+  ],
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "iconv-lite": "^0.4.13",
+    "request": "^2.74.0"
+  },
+  "devDependencies": {},
+  "preferGlobal": true,
+  "private": true,
+  "license": "MIT"
+}
