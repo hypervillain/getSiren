@@ -4,7 +4,8 @@
   "description": "A simple package to build a company account using its registration number",
   "author": "Hugo Villain <hugo@whire.me>",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "node test.js"
   },
   "main": "index.js",
   "repository": {
@@ -17,7 +18,8 @@
     "automation",
     "emploi",
     "employment",
-    "whire"
+    "whire",
+    "siren"
   ],
   "dependencies": {
     "cheerio": "^0.20.0",
